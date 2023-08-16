@@ -18,7 +18,7 @@ Aprendi nesse projeto a estruturar páginas utilizando HTML Semâmtico e CSS, al
 Instalação com npm
 
 ```bash
-  git clone git@github.com:GuilhermeFMP/Lessons-Learned.git
+  git clone git@github.com:GuilhermeFMP/Trybe-Lessons-Learned.git
   cd Lessons-Learned
   npm install
 ```
