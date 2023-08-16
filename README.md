@@ -19,7 +19,7 @@ Instalação com npm
 
 ```bash
   git clone git@github.com:GuilhermeFMP/Trybe-Lessons-Learned.git
-  cd Lessons-Learned
+  cd Trybe-Lessons-Learned
   npm install
 ```
     
